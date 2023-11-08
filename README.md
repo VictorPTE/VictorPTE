@@ -1,8 +1,8 @@
 # Presentation
 
-Hello I'm Victor POTIE.
-Welcome to my Github page.
-You can find here all about me and my projects.
+Hello I'm Victor POTIE  
+Welcome to my Github page  
+You can find here all about me and my projects  
 
 ## About me
 
